@@ -1,0 +1,2 @@
+train_judged,test_judged,test_useful_rate,auc_model,auc_confidence_alone,brier_model,brier_base_rate,brier_test_rate_oracle,precision_top_third
+240,103,0.107,0.694,0.568,0.1529,0.2161,0.0954,0.176

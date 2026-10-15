@@ -1,0 +1,18 @@
+term,coef
+cat__urgency_high,-0.5924783568929812
+cat__category_reminder,-0.4825860066581855
+num__prior_fires,-0.41066157472160064
+cat__time_of_day_9-12,-0.37085774076572625
+cat__category_infrequent_sklearn,-0.2106052591031096
+cat__time_of_day_21+,-0.2001252704470736
+cat__category_overdue,-0.1258431210900102
+cat__urgency_medium,-0.07223991860373379
+num__text_len,-0.05632595597315697
+num__confidence,-0.024954236853876374
+cat__category_due,0.07724347406492535
+cat__time_of_day_12-17,0.10847606376860144
+cat__time_of_day_before 9,0.17069581234744818
+num__evidence_n,0.20358091312825027
+cat__time_of_day_17-21,0.291113031405393
+cat__urgency_infrequent_sklearn,0.6640201718053586
+cat__category_email,0.7410928090950234
