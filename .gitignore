@@ -1,0 +1,6 @@
+# Row-level exports stay on this Mac. Only aggregates and the synthetic sample are public.
+data/private/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
